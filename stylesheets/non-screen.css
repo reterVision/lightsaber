@@ -60,6 +60,10 @@ section#main_content {
   padding: 20px 40px 0;
 }
 
+section#canvas_section {
+  padding: 20px 40px 0;
+}
+
 footer {
   max-width:640px;
   background: none;
